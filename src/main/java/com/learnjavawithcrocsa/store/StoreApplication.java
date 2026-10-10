@@ -1,7 +1,5 @@
 package com.learnjavawithcrocsa.store;
 
-import com.learnjavawithcrocsa.store.entities.User;
-import com.learnjavawithcrocsa.store.repositories.UserRepository;
 import com.learnjavawithcrocsa.store.services.UserServices;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
